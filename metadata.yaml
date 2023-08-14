@@ -1,0 +1,27 @@
+_repo: Six-little-Bunkers-at-Captain-Ben-s_71309
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hope, Laura Lee
+    gutenberg_agent_id: '367'
+    url: http://www.gutenberg.org/2009/agents/367
+    wikipedia: https://en.wikipedia.org/wiki/Laura_Lee_Hope
+description: ''
+gutenberg_issued: '2023-07-31'
+identifiers:
+  gutenberg: '71309'
+language: en
+pgterms:marc905: 20220621183901hope
+pgterms:marc906: '1920'
+pgterms:marc907: us
+production_note: David Edwards, Mary Meehan and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aUnited States :$bGrosset & Dunlap, $c1920.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Six little Bunkers at Captain Ben's
+url: http://www.gutenberg.org/ebooks/71309
