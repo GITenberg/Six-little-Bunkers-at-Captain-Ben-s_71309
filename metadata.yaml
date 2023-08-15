@@ -1,5 +1,8 @@
 _repo: Six-little-Bunkers-at-Captain-Ben-s_71309
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71309-h/images/cover.jpg
 creator:
   author:
     agent_name: Hope, Laura Lee
@@ -7,6 +10,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/367
     wikipedia: https://en.wikipedia.org/wiki/Laura_Lee_Hope
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71309#Six-little-Bunkers-at-Captain-Ben-s
 gutenberg_issued: '2023-07-31'
 identifiers:
   gutenberg: '71309'
